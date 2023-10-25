@@ -1,6 +1,6 @@
 {
-    "name": "jch",
-    "title": "jch",
+    "name": "jchui",
+    "title": "jChUi",
     "description": "A Lightweight SPA jQuery Plugin.",
     "keywords": [
         "jch",
@@ -23,6 +23,6 @@
     "homepage": "https://github.com/olelev/jch",    
     "download": "https://github.com/olelev/jch",
     "dependencies": {
-        "jquery": ">=1.7"
+        "jquery": ">=3.7"
     }
 }
