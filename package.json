@@ -4,5 +4,10 @@
   "dependencies": {
     "jquery": "^3.7.1",
     "jqueryui": "^1.11.1"
-  }
+  },
+  "keywords": [
+    "jch",
+    "jquery-plugin",
+    "lightweight"
+  ]
 }

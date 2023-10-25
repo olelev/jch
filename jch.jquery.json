@@ -1,0 +1,28 @@
+{
+    "name": "jch",
+    "title": "jch",
+    "description": "A Lightweight SPA jQuery Plugin.",
+    "keywords": [
+        "jch",
+        "jquery-plugin",
+        "lightweight"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "ole.lev",
+        "url": "http://lynxline.com"
+    },
+    "maintainers": [
+        {
+            "name": "ole.lev",
+            "email": "ole.lev@lynxline.com",
+            "url": "http://lynxline.com"
+        }
+    ],
+    "bugs": "https://github.com/olelev/jch/issues/new",
+    "homepage": "https://github.com/olelev/jch",    
+    "download": "https://github.com/olelev/jch",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
