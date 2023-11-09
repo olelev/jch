@@ -1,12 +1,12 @@
 {
   "name": "jchui",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "dependencies": {
     "jquery": "^3.7.1",
-    "jqueryui": "^1.11.1"
+    "jquery-ui": "^1.13.1"
   },
   "keywords": [
-    "jch",
+    "jchui",
     "jquery-plugin",
     "lightweight"
   ]

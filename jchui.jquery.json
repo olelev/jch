@@ -3,11 +3,11 @@
     "title": "jChUi",
     "description": "A Lightweight SPA jQuery Plugin.",
     "keywords": [
-        "jch",
+        "jchui",
         "jquery-plugin",
         "lightweight"
     ],
-    "version": "1.0.0",
+    "version": "1.0.2",
     "author": {
         "name": "ole.lev",
         "url": "http://lynxline.com"
@@ -19,10 +19,11 @@
             "url": "http://lynxline.com"
         }
     ],
-    "bugs": "https://github.com/olelev/jch/issues/new",
-    "homepage": "https://github.com/olelev/jch",    
-    "download": "https://github.com/olelev/jch",
+    "bugs": "https://github.com/olelev/jchui/issues/new",
+    "homepage": "https://github.com/olelev/jchui",    
+    "download": "https://github.com/olelev/jchui",
     "dependencies": {
-        "jquery": ">=3.7"
+        "jquery": ">=3.7",
+        "jquery-ui": ">=1.13"
     }
 }
