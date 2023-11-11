@@ -1,6 +1,7 @@
 {
   "name": "jchui",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "type": "module",
   "dependencies": {
     "jquery": "^3.7.1",
     "jquery-ui": "^1.13.1"
@@ -9,5 +10,21 @@
     "jchui",
     "jquery-plugin",
     "lightweight"
-  ]
+  ],
+  "devDependencies": {
+    "del": "^7.1.0",
+    "gulp": "^4.0.2",
+    "gulp-batch": "^1.0.5",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-foreach": "^0.1.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-replace-task": "^2.0.1",
+    "gulp-rev": "^11.0.0",
+    "gulp-rev-rewrite": "^6.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-strip-comments": "^2.6.0",
+    "gulp-strip-css-comments": "^3.0.0",
+    "gulp-terser": "^2.1.0"
+  }
 }
